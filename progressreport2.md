@@ -18,3 +18,4 @@ Work on completing the sprint project
 ### Presentation Topics
 
 Austin Lordi - Snake Robots
+Tyler Hogue - Passwordless Authentication
